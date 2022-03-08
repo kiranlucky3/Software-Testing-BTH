@@ -13,7 +13,7 @@ public class TestAdd {
 
     @Test
     public void test_add(){
-        assertEquals(3, uc.add(2,2));
+        assertEquals(4, uc.add(2,2));
     }
 
 }
